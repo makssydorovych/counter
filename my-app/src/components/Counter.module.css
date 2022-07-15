@@ -1,0 +1,19 @@
+.counter{
+    border: 5px solid black;
+    min-width: 500px;
+   border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+}
+.red{
+    color: red;
+}
+.button{
+    width: 110px;
+    margin: 20px;
+    padding: 5px;
+
+}
+p{
+    font-size: 50px;
+}
