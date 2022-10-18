@@ -1,3 +1,6 @@
+.wrap{
+    display: flex;
+}
 .counter{
     border: 5px solid black;
     min-width: 500px;
